@@ -39,9 +39,9 @@ The performance of the models was evaluated using metrics such as accuracy, prec
 
 ## Contributors
 
-[**Khush Patel**](https://github.com/khushpatel2121)
-[**Vishwa Pujara**](https://github.com/Vishwapujara)
-[**Nandani Thakkar**](https://github.com/nandani09)
+- [**Khush Patel**](https://github.com/khushpatel2121)
+- [**Vishwa Pujara**](https://github.com/Vishwapujara)
+- [**Nandani Thakkar**](https://github.com/nandani09)
 
 
 
